@@ -21,7 +21,7 @@
 
 ## 📜 HISTORY & BACKGROUND
 
-### 🏫 小学生時代: サーバー運営と技術の目覚め (Elementary School)
+### 🏫 小学生時代 (Elementary School)
 
 **Minecraftサーバー運営 (Java / Spigot / MySQL)**
 
@@ -35,18 +35,18 @@
 
 <br/>
 
-### 🤖 中学生時代: ロボティクスへの挑戦 (Junior High School)
+### 🤖 中学生時代 (Junior High School)
 
 **RoboCup Junior / Team Development**
 
 中学生時代はロボティクス競技に打ち込み、技術力とチームワークを磨きました。
 
 *   **� 優勝**: **RoboCup Junior 2019 和歌山 Japan Open OnStage**
-*   **活動内容**: パフォーマンスロボットの設計・製作・プログラミング。チームリーダーとしてプロジェクト進行管理も担当。
+*   **活動内容**: パフォーマンスロボットの設計・製作・プログラミング。
 
 <br/>
 
-### �🎨 高校生時代: クリエイティブへの没頭 (High School)
+### �🎨 高校生時代 (High School)
 
 **Esports Designer / Graphic Design**
 
@@ -70,13 +70,13 @@
 
 <br/>
 
-### 🎓 大学生時代 (現在): ビジネスとエンジニアリングの融合 (University Student)
+### 🎓 大学生時代 (現在) (University Student)
 
 **Apparel Brand Management / Mobile App Dev**
 
 大学生となった現在は、アパレルブランドの経営経験を活かしつつ、モバイルアプリ開発に注力しています。
 
-*   **アパレルブランド運営 (Past)**: ブランド「**TIER**」を立ち上げ、運営していました。
+*   **アパレルブランド運営 (Past)**: ブランドを立ち上げ、運営していました。
     *   **実績**: Shopifyを活用したECサイト構築、マーケティング、販売戦略の立案から実行までを一貫して経験。
 *   **エンジニアリング (Current)**: ユーザー価値を最大化するアプリ開発（詳細はFeatured Projectsを参照）。
 
