@@ -43,7 +43,7 @@
 
 *   **🏆 優勝**: **RoboCup Junior 2019 和歌山 Japan Open OnStage**
 *   **チーム名**: **Forest**
-*   **活動内容**: パフォーマンスロボットの設計・製作・プログラミング。チームリーダーとしてプロジェクト進行管理も担当。
+*   **活動内容**: パフォーマンスロボットの設計・製作・プログラミング。
 
 <img src="./assets/robocup.jpg" width="80%" alt="RoboCup Junior Team Forest" />
 
@@ -79,7 +79,7 @@
 
 大学生となった現在は、アパレルブランドの経営経験を活かしつつ、モバイルアプリ開発に注力しています。
 
-*   **アパレルブランド運営 (Past)**: ブランド「**TIER**」を立ち上げ、運営していました。
+*   **アパレルブランド運営 (Past)**: セレクトショップを立ち上げ、運営していました。
     *   **実績**: Shopifyを活用したECサイト構築、マーケティング、販売戦略の立案から実行までを一貫して経験。
 *   **エンジニアリング (Current)**: ユーザー価値を最大化するアプリ開発（詳細はFeatured Projectsを参照）。
 
@@ -139,7 +139,7 @@
 
 | プロジェクト | 説明 | 技術スタック |
 | :--- | :--- | :--- |
-| **Valorant Auto-Vending** | **Discordアカウント自動販売Bot**<br>在庫検索・購入・PayPay入金確認・納品までを完全無人化。<br>Playwrightによる決済監視システム搭載。 | ![Python](https://img.shields.io/badge/-Python-blue) ![Discord.py](https://img.shields.io/badge/-Bot-5865F2) ![Playwright](https://img.shields.io/badge/-Scraping-green) |
+| **Auto-Vending** | **Discordアカウント自動販売Bot**<br>在庫検索・購入・PayPay入金確認・納品までを完全無人化。<br>Playwrightによる決済監視システム搭載。 | ![Python](https://img.shields.io/badge/-Python-blue) ![Discord.py](https://img.shields.io/badge/-Bot-5865F2) ![Playwright](https://img.shields.io/badge/-Scraping-green) |
 
 <br/>
 
