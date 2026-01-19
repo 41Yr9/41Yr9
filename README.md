@@ -133,7 +133,7 @@
 | プロジェクト | 説明 | 技術スタック |
 | :--- | :--- | :--- |
 | **DiGer (VintageCheck)** | **古着タグAI解析アプリ**<br>カメラで古着のタグを撮影し、年代や詳細をAIが即座に判定。<br>サブスクリプション機能搭載。 | ![React Native](https://img.shields.io/badge/-RN-black) ![Vision Camera](https://img.shields.io/badge/-Vision-black) ![RevenueCat](https://img.shields.io/badge/-RevenueCat-red) |
-| **FormLab** | **AI筋トレフォーム解析**<br>トレーニング動画をGemini 2.5 Flashで解析し、スコアと改善点を提示。<br>Supabaseによる履歴管理機能付き。 | ![Expo](https://img.shields.io/badge/-Expo-black) ![Gemini](https://img.shields.io/badge/-Gemini_AI-blue) ![Supabase](https://img.shields.io/badge/-Supabase-green) |
+| **FormLab** | **AI筋トレフォーム解析**<br>トレーニング動画をAIで解析し、スコアと改善点を提示。<br>Supabaseによる履歴管理機能付き。 | ![Expo](https://img.shields.io/badge/-Expo-black) ![Gemini](https://img.shields.io/badge/-Gemini_AI-blue) ![Supabase](https://img.shields.io/badge/-Supabase-green) |
 
 ### 🤖 自動化 & Bot
 
