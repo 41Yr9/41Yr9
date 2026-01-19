@@ -19,6 +19,72 @@
 
 <br/>
 
+## 📜 HISTORY & BACKGROUND
+
+### 🏫 小学生時代: サーバー運営と技術の目覚め (Elementary School)
+
+**Minecraftサーバー運営 (Java / Spigot / MySQL)**
+
+小学生の時、MinecraftサーバーのOwnerとして運営を開始しました。単なるゲームプレイに留まらず、バックエンド技術に触れる原体験となりました。
+
+*   **経済システムの実装**: MySQLを活用し、ゲーム内の経済データ（所持金・取引履歴）を管理するシステムを導入。
+*   **国内上位の成果**: ユーザー体験（UX）を重視したサーバー設定により、個人運営としては国内上位となる**同時接続数25名**を達成。
+*   **インフラ管理**: サーバー負荷の監視と継続的なチューニングを行い、安定稼働を実現しました。
+
+<img src="./assets/minecraft_server.png" width="80%" alt="Minecraft Server" />
+
+<br/>
+
+### 🎨 中学生時代: クリエイティブへの没頭 (Junior High School)
+
+**Esports Designer / Graphic Design**
+
+中学生時代はEsportsチームの専属デザイナーとして活動し、プロゲーマーやチームのブランディングに貢献しました。
+
+*   **主な活動**: 所属チームのクリエイティブ全般を担当。
+*   **制作物**: プロプレイヤーのヘッダー画像、大会用クリエイティブなど。
+*   **使用ツール**: Adobe Photoshop
+*   **ポートフォリオ**: [Behance @NaiwaD](https://www.behance.net/NaiwaD)
+
+<table>
+  <tr>
+    <td align="center"><img src="./assets/design_1.png" width="100%" /></td>
+    <td align="center"><img src="./assets/design_2.png" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/design_3.png" width="100%" /></td>
+    <td align="center"><img src="./assets/design_4.png" width="100%" /></td>
+  </tr>
+</table>
+
+<br/>
+
+### 🤖 高校生時代: ロボティクスへの挑戦 (High School)
+
+**RoboCup Junior / Team Development**
+
+高校ではロボティクス競技に打ち込み、技術力とチームワークを磨きました。
+
+*   **🏆 優勝**: **RoboCup Junior 2019 和歌山 Japan Open OnStage**
+*   **活動内容**: パフォーマンスロボットの設計・製作・プログラミング。チームリーダーとしてプロジェクト進行管理も担当。
+
+<br/>
+
+### 🎓 大学生時代 (現在): ビジネスとエンジニアリングの融合 (University Student)
+
+**Apparel Brand Management / Mobile App Dev**
+
+大学生となった現在は、アパレルブランドの経営とモバイルアプリ開発を行っています。
+
+*   **アパレルブランド運営**: ブランド「**TIER**」の立ち上げから運営までを一貫して担当。
+    *   **Shopify**を活用したECサイト構築・運用。
+    *   商品企画、マーケティング、販売戦略の立案。
+*   **エンジニアリング**: ユーザー価値を最大化するアプリ開発（詳細はFeatured Projectsを参照）。
+
+<img src="./assets/apparel_brand.png" width="90%" alt="Apparel Brand TIER" border="1" />
+
+<br/>
+
 ## 🛠 技術スタック
 
 ### モバイル & フロントエンド
@@ -32,6 +98,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### AI & クラウドサービス
 ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
