@@ -139,7 +139,7 @@
 
 | プロジェクト | 説明 | 技術スタック |
 | :--- | :--- | :--- |
-| **Auto-Vending** | **Discordアカウント自動販売Bot**<br>在庫検索・購入・PayPay入金確認・納品までを完全無人化。<br>Playwrightによる決済監視システム搭載。 | ![Python](https://img.shields.io/badge/-Python-blue) ![Discord.py](https://img.shields.io/badge/-Bot-5865F2) ![Playwright](https://img.shields.io/badge/-Scraping-green) |
+| **Auto-Vending** | **Discord自動販売機Bot**<br>在庫検索・購入・PayPay入金確認・納品までを完全無人化。<br>Playwrightによる決済監視システム搭載。 | ![Python](https://img.shields.io/badge/-Python-blue) ![Discord.py](https://img.shields.io/badge/-Bot-5865F2) ![Playwright](https://img.shields.io/badge/-Scraping-green) |
 
 <br/>
 
