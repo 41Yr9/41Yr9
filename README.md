@@ -58,7 +58,6 @@
 *   **主な活動**: 所属チームのクリエイティブ全般を担当。
 *   **制作物**: プロプレイヤーのヘッダー画像、大会用クリエイティブなど。
 *   **使用ツール**: Adobe Photoshop
-*   **ポートフォリオ**: [Behance @NaiwaD](https://www.behance.net/NaiwaD)
 
 <table>
   <tr>
