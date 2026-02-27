@@ -195,11 +195,15 @@
     *   **結果と学び**: SNSマーケティングの壁を突破できず、半年間赤字を出し撤退（売上約3万円）。**「作れる」だけでは売れないことを痛感**し、ユーザー視点でのプロダクト設計の重要性を学びました。
 *   **現在**: この経験を活かし、エンジニアとしてユーザー課題を解決するモバイルアプリ開発に注力。**App Store公開済み。**
 
-<img src="./assets/apparel_brand.png" width="30%" alt="Apparel Brand TIER" />
-<img src="./assets/tier.jpg" width="30%" alt="TIER Packaging" />
-<img src="./assets/tier2.jpg" width="30%" alt="TIER Packaging 2" />
+<table>
+  <tr>
+    <td align="center"><img src="./assets/apparel_brand.png" width="100%" /></td>
+    <td align="center"><img src="./assets/tier.jpg" width="100%" /></td>
+    <td align="center"><img src="./assets/tier2.jpg" width="100%" /></td>
+  </tr>
+</table>
 
-<sub>TIER の梱包材・タグデザイン</sub>
+<sub>左: ECサイト / 中央・右: 梱包材・タグデザイン</sub>
 
 </details>
 
