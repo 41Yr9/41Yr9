@@ -72,7 +72,6 @@
 ### 📱 DiGer — 古着タグAI鑑定アプリ
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?style=for-the-badge&logo=apple)](https://apps.apple.com/jp/app/diger/id6756227679)
-[![詳細ドキュメント](https://img.shields.io/badge/詳細-README-blue?style=for-the-badge)](./DiGer.md)
 
 > 古着のブランドタグを撮影するだけで、AIがブランド・製造年代・市場価格を瞬時に判定するiOS/Androidアプリ。
 
@@ -88,7 +87,6 @@
 
 ### 💪 FormLab — AI筋トレフォーム解析
 
-[![詳細ドキュメント](https://img.shields.io/badge/詳細-README-blue?style=for-the-badge)](./formlab.md)
 
 > トレーニング動画をAIが解析し、姿勢・動作のスムーズさ・安全性を100点満点でスコアリング。
 
