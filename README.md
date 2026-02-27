@@ -130,7 +130,9 @@
 *   **プラグイン運用**: 既存プラグインの選定・設定・チューニングを行い、サーバー負荷を抑えつつ安定稼働を実現。
 
 <img src="./assets/minecraft_server.png" width="45%" alt="Minecraft Server" />
-<img src="./assets/sql-png.jpg" width="45%" alt="MySQL Setup" />
+<img src="./assets/sql1.png" width="45%" alt="MySQL Setup" />
+
+<sub>右: 技術ブログを読みながらMySQLを設定する様子 (2017)</sub>
 
 </details>
 
