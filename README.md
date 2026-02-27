@@ -24,19 +24,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=41Yr9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=41Yr9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=41Yr9&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
-
-<br/>
-
 ## 🛠 Tech Stack
 
 <details>
@@ -112,22 +99,6 @@
 | **技術的工夫** | 最大50秒の動画をAIに送信する効率的なパイプライン構築、Supabaseによるクラウド履歴管理 |
 | **成果** | 解析履歴のクラウド保存 / RevenueCatによるサブスク課金実装 |
 | **技術スタック** | React Native (Expo SDK 52), TypeScript, Gemini 2.5 Flash, Supabase, RevenueCat |
-
-<br/>
-
-### 🤖 DOGE SHOP — Discord自動販売Bot
-
-[![詳細ドキュメント](https://img.shields.io/badge/詳細-README-blue?style=for-the-badge)](./doge.md)
-
-> 仕入れ・在庫管理・決済確認・納品までを完全自動化したDiscord上の自動販売機システム。
-
-| 項目 | 内容 |
-| :--- | :--- |
-| **課題** | デジタル商品の販売には、在庫管理・決済確認・納品の手作業が多く、24時間対応が困難。 |
-| **解決策** | Discord Botで購入フローを自動化。PayPay決済の自動受取→商品引渡しまでを無人化。Web販売チャネルも構築。 |
-| **技術的工夫** | PayPay APIトークン認証の実装、レアスキン40秒間隔監視、5カテゴリの自動出品スケジューラー、Cloudflare Tunnel対応 |
-| **成果** | **24/7 完全無人運用を実現** / Discord + Web の2チャネル販売 / 利益トラッキング機能搭載 |
-| **技術スタック** | Python, discord.py, Flask, Playwright, PayPay API, Docker, Cloudflare Tunnel |
 
 <br/>
 
