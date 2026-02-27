@@ -102,6 +102,20 @@
 
 <br/>
 
+### 🤖 EC Auto-Vending Bot — Discord自動販売システム
+
+> 仕入れ・在庫管理・決済確認・納品までを完全自動化したDiscord + Web上のEC自動販売システム。
+
+| 項目 | 内容 |
+| :--- | :--- |
+| **課題** | デジタル商品の販売には、在庫管理・決済確認・納品の手作業が多く、24時間対応が困難。 |
+| **解決策** | Discord Botで購入フローを自動化。PayPay決済の自動受取→商品引渡しまでを無人化。Webサイトからの購入チャネルも構築。 |
+| **技術的工夫** | PayPay APIトークン認証の自動決済、5カテゴリの自動出品スケジューラー、Cloudflare Tunnelによるセキュアな公開、Dockerによるコンテナ運用 |
+| **成果** | **24/7 完全無人運用を実現** / Discord + Web の2チャネル販売 / 利益トラッキング・システムステータス監視を搭載 |
+| **技術スタック** | Python, discord.py, Flask, Playwright, PayPay API, Docker, Cloudflare Tunnel |
+
+<br/>
+
 ## 📜 Background & History
 
 <details>
