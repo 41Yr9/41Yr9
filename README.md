@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Student%20Engineer%20%2F%20App%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20apps%20that%20bridge%20Real%20World%20%26%20AI&descSize=16&descColor=8b949e&descAlignY=55" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:161b22&amp;height=220&amp;section=header&amp;text=Student%20Engineer%20%2F%20App%20Developer&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Building%20apps%20that%20bridge%20Real%20World%20%26%20AI&amp;descSize=16&amp;descColor=8b949e&amp;descAlignY=55" width="100%" alt="header" />
 
   <br/>
 
@@ -184,13 +184,15 @@
 <summary><b>🎓 大学生時代（現在） — ビジネスとエンジニアリングの融合</b></summary>
 <br/>
 
-**アパレルブランド「TIER」運営 → モバイルアプリ開発**
+**アパレル起業 → ブランド「TIER」運営 → モバイルアプリ開発**
 
-大学入学後、別大学の学生と**7人チーム**を結成し、アパレルブランド「**TIER**」を起業。約半年間運営しました。
+大学で2つのアパレル事業を経験しました。
 
-*   **海外企業との英語でのやり取り**: タグ・梱包材の発注、発送方法の相談まで、海外サプライヤーと英語でコミュニケーション。
-*   **EC運営**: Shopifyを活用したECサイト構築、商品企画、マーケティング戦略の立案。
-*   **結果と学び**: SNSマーケティングの壁を突破できず、半年間赤字を出し撤退（売上約3万円）。**「作れる」だけでは売れないことを痛感**し、ユーザー視点でのプロダクト設計の重要性を学びました。
+*   **アパレル起業（チーム）**: 別大学の学生と**7人チーム**を結成しアパレル事業を起業するも、失敗。
+*   **ブランド「TIER」運営（個人）**: その後、個人でアパレルブランド「**TIER**」を立ち上げ、約半年間運営。
+    *   **海外企業との英語でのやり取り**: タグ・梱包材の発注、発送方法の相談まで、海外サプライヤーと英語でコミュニケーション。
+    *   **EC運営**: Shopifyを活用したECサイト構築、商品企画、マーケティング戦略の立案。
+    *   **結果と学び**: SNSマーケティングの壁を突破できず、半年間赤字を出し撤退（売上約3万円）。**「作れる」だけでは売れないことを痛感**し、ユーザー視点でのプロダクト設計の重要性を学びました。
 *   **現在**: この経験を活かし、エンジニアとしてユーザー課題を解決するモバイルアプリ開発に注力。**App Store公開済み。**
 
 <img src="./assets/apparel_brand.png" width="70%" alt="Apparel Brand TIER" />
