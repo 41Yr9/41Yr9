@@ -1,63 +1,175 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hello%20World&fontSize=70&fontColor=ffffff" width="100%" alt="header" />
-  
-  # 👋 学生エンジニア / アプリ開発者です
-  
-  **モバイル開発 (React Native) | Python 自動化 | AI 統合**
-  <br/>
-  <i>現実世界とAIを繋ぐアプリを開発しています。</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Student%20Engineer%20%2F%20App%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20apps%20that%20bridge%20Real%20World%20%26%20AI&descSize=16&descColor=8b949e&descAlignY=55" width="100%" alt="header" />
 
   <br/>
-  
-  <a href="https://github.com/41Yr9">
-    <img src="https://img.shields.io/github/followers/41Yr9?label=Follow&style=social" alt="Followers" />
-  </a>
-  <a href="kkappcreator@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail" alt="Email" />
-  </a>
+
+  [![GitHub followers](https://img.shields.io/github/followers/41Yr9?label=Follow&style=social)](https://github.com/41Yr9)
+  [![Email](https://img.shields.io/badge/Email-kkappcreator@gmail.com-blue?style=flat-square&logo=gmail)](mailto:kkappcreator@gmail.com)
+  [![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?style=flat-square&logo=behance)](https://www.behance.net/NaiwaD)
+  [![App Store](https://img.shields.io/badge/App_Store-DiGer-black?style=flat-square&logo=apple)](https://apps.apple.com/jp/app/diger/id6756227679)
 </div>
 
 <br/>
 
-## 📜 HISTORY & BACKGROUND
+## 🧑‍💻 About Me
 
-### 🏫 小学生時代 (Elementary School)
+モバイルアプリ開発を軸に、**企画 → 設計 → 実装 → リリース → 収益化**までを一貫して行う学生エンジニアです。
+
+- 🎓 大学生（現在）
+- 📱 React Native / Expo でのiOS/Androidアプリ開発・**App Store公開経験あり**
+- 🤖 Python + Playwrightによる業務自動化・Bot開発
+- 🏆 RoboCup Junior 2019 Japan Open OnStage **優勝**
+- 🎨 Esports チームのグラフィックデザイナー経験
+- 🛍️ Shopifyを活用したアパレルEC運営経験
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=41Yr9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=41Yr9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=41Yr9&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 🛠 Tech Stack
+
+<details>
+<summary><b>モバイル & フロントエンド</b></summary>
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-7B61FF?style=for-the-badge&logo=react-router&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>バックエンド & データベース</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>AI & クラウドサービス</b></summary>
+<br/>
+
+![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F05032?style=for-the-badge&logo=revenuecat&logoColor=white)
+![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google-admob&logoColor=white)
+
+</details>
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 📱 DiGer — 古着タグAI鑑定アプリ
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?style=for-the-badge&logo=apple)](https://apps.apple.com/jp/app/diger/id6756227679)
+[![詳細ドキュメント](https://img.shields.io/badge/詳細-README-blue?style=for-the-badge)](./DiGer.md)
+
+> 古着のブランドタグを撮影するだけで、AIがブランド・製造年代・市場価格を瞬時に判定するiOS/Androidアプリ。
+
+| 項目 | 内容 |
+| :--- | :--- |
+| **課題** | 古着の年代判定は専門知識が必要で、初心者には困難。プロの鑑定士に依頼するとコストと時間がかかる。 |
+| **解決策** | Gemini 2.5 Flash を活用し、タグのデザイン・素材表記・アーカイブデータをAIが照合。最大3枚同時解析で精度向上。 |
+| **技術的工夫** | デバイスID認証による課金管理、Express.js + PostgreSQLの認証APIサーバー構築、RevenueCatによるサブスク課金実装 |
+| **成果** | **App Store公開済み** / サブスク3プラン設計 / バックエンドAPI自前構築・Render.comにデプロイ |
+| **技術スタック** | React Native, TypeScript, Vision Camera, Express.js, PostgreSQL, Gemini 2.5 Flash, RevenueCat, AdMob |
+
+<br/>
+
+### 💪 FormLab — AI筋トレフォーム解析
+
+[![詳細ドキュメント](https://img.shields.io/badge/詳細-README-blue?style=for-the-badge)](./formlab.md)
+
+> トレーニング動画をAIが解析し、姿勢・動作のスムーズさ・安全性を100点満点でスコアリング。
+
+| 項目 | 内容 |
+| :--- | :--- |
+| **課題** | パーソナルトレーナーなしでは正しいフォームの判断が難しく、怪我のリスクがある。 |
+| **解決策** | Gemini 2.5 Flash でトレーニング動画を解析し、スコア・良い点・改善点・具体的アドバイスを自動生成。 |
+| **技術的工夫** | 最大50秒の動画をAIに送信する効率的なパイプライン構築、Supabaseによるクラウド履歴管理 |
+| **成果** | 解析履歴のクラウド保存 / RevenueCatによるサブスク課金実装 |
+| **技術スタック** | React Native (Expo SDK 52), TypeScript, Gemini 2.5 Flash, Supabase, RevenueCat |
+
+<br/>
+
+### 🤖 DOGE SHOP — Discord自動販売Bot
+
+[![詳細ドキュメント](https://img.shields.io/badge/詳細-README-blue?style=for-the-badge)](./doge.md)
+
+> 仕入れ・在庫管理・決済確認・納品までを完全自動化したDiscord上の自動販売機システム。
+
+| 項目 | 内容 |
+| :--- | :--- |
+| **課題** | デジタル商品の販売には、在庫管理・決済確認・納品の手作業が多く、24時間対応が困難。 |
+| **解決策** | Discord Botで購入フローを自動化。PayPay決済の自動受取→商品引渡しまでを無人化。Web販売チャネルも構築。 |
+| **技術的工夫** | PayPay APIトークン認証の実装、レアスキン40秒間隔監視、5カテゴリの自動出品スケジューラー、Cloudflare Tunnel対応 |
+| **成果** | **24/7 完全無人運用を実現** / Discord + Web の2チャネル販売 / 利益トラッキング機能搭載 |
+| **技術スタック** | Python, discord.py, Flask, Playwright, PayPay API, Docker, Cloudflare Tunnel |
+
+<br/>
+
+## 📜 Background & History
+
+<details>
+<summary><b>🏫 小学生時代 — サーバー運営と技術の目覚め</b></summary>
+<br/>
 
 **Minecraftサーバー運営 (Java / Spigot / MySQL)**
 
-小学生の時、MinecraftサーバーのOwnerとして運営を開始しました。単なるゲームプレイに留まらず、バックエンド技術に触れる原体験となりました。
+小学生の頃からMinecraftサーバーのOwnerとして運営。バックエンド技術に触れる原体験となりました。
 
-*   **経済システムの実装**: MySQLを活用し、ゲーム内の経済データ（所持金・取引履歴）を管理するシステムを導入。
-*   **国内上位の成果**: ユーザー体験（UX）を重視したサーバー設定により、個人運営としては国内上位となる**同時接続数25名**を達成。
-*   **インフラ管理**: サーバー負荷の監視と継続的なチューニングを行い、安定稼働を実現しました。
+*   **経済システムの実装**: MySQLでゲーム内経済データ（所持金・取引履歴）を管理
+*   **国内上位の成果**: 個人運営として同時接続数**25名**を達成
+*   **インフラ管理**: サーバー負荷の監視とチューニングで安定稼働を実現
 
-<img src="./assets/minecraft_server.png" width="80%" alt="Minecraft Server" />
+<img src="./assets/minecraft_server.png" width="70%" alt="Minecraft Server" />
 
+</details>
+
+<details>
+<summary><b>🤖 中学生時代 — ロボティクスへの挑戦</b></summary>
 <br/>
 
-### 🤖 中学生時代 (Junior High School)
-
-**RoboCup Junior / Team Development**
-
-中学生時代はロボティクス競技に打ち込み、技術力とチームワークを磨きました。
+**RoboCup Junior / Team Forest**
 
 *   **🏆 優勝**: **RoboCup Junior 2019 和歌山 Japan Open OnStage**
-*   **チーム名**: **Forest**
-*   **活動内容**: パフォーマンスロボットの設計・製作・プログラミング。
+*   パフォーマンスロボットの設計・製作・プログラミングを担当
 
-<img src="./assets/robocup.jpg" width="80%" alt="RoboCup Junior Team Forest" />
+<img src="./assets/robocup.jpg" width="70%" alt="RoboCup Junior Team Forest" />
 
+</details>
+
+<details>
+<summary><b>🎨 高校生時代 — Esports デザイナー</b></summary>
 <br/>
-
-### 🎨 高校生時代 (High School)
 
 **Esports Designer / Graphic Design**
 
-高校生時代はEsportsチームの専属デザイナーとして活動し、プロゲーマーやチームのブランディングに貢献しました。
-
-*   **主な活動**: 所属チームのクリエイティブ全般を担当。
-*   **制作物**: プロプレイヤーのヘッダー画像、大会用クリエイティブなど。
-*   **使用ツール**: Adobe Photoshop
+Esportsチームの専属デザイナーとして、プロゲーマーやチームのブランディングに貢献。  
+📎 [Behance Portfolio](https://www.behance.net/NaiwaD)
 
 <table>
   <tr>
@@ -70,83 +182,28 @@
   </tr>
 </table>
 
+</details>
+
+<details>
+<summary><b>🎓 大学生時代（現在） — ビジネスとエンジニアリングの融合</b></summary>
 <br/>
 
-### 🎓 大学生時代 (現在) (University Student)
+**Apparel Brand Management → Mobile App Development**
 
-**Apparel Brand Management / Mobile App Dev**
+*   **アパレルブランド運営**: Shopifyを活用したセレクトショップの立ち上げ・ECサイト構築・マーケティング・販売戦略を一貫して経験
+*   **モバイルアプリ開発**: ユーザー課題をアプリで解決し、App Storeに公開
 
-大学生となった現在は、アパレルブランドの経営経験を活かしつつ、モバイルアプリ開発に注力しています。
+<img src="./assets/apparel_brand.png" width="70%" alt="Apparel Brand" />
 
-*   **アパレルブランド運営 (Past)**: セレクトショップを立ち上げ、運営していました。
-    *   **実績**: Shopifyを活用したECサイト構築、マーケティング、販売戦略の立案から実行までを一貫して経験。
-*   **エンジニアリング (Current)**: ユーザー価値を最大化するアプリ開発（詳細はFeatured Projectsを参照）。
-
-<img src="./assets/apparel_brand.png" width="90%" alt="Apparel Brand TIER" border="1" />
-
-<br/>
-
-## 🛠 技術スタック
-
-### モバイル & フロントエンド
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React_Navigation-7B61FF?style=for-the-badge&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### バックエンド & 自動化
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### AI & クラウドサービス
-![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-F05032?style=for-the-badge&logo=revenuecat&logoColor=white)
-![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google-admob&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+</details>
 
 <br/>
 
-## 🔭 注力分野 & スタイル
-
-| テーマ | 詳細 | ツール |
-| :--- | :--- | :--- |
-| **モバイルAIアプリ** | カメラ映像を活用したAI解析アプリ開発 | **React Native, Vision Camera, Gemini Flash** |
-| **Bot自動化** | Discord/Web操作の完全自動化・収益化 | **Python, Playwright, Discord.py** |
-| **マネタイズ** | サブスクリプション・広告の実装設計 | **RevenueCat, AdMob** |
-| **開発スタイル** | ユーザー価値最優先のMVP開発 → 計測 → 改善 | **Supabase, CI/CD** |
-
-<br/>
-
-## 🚀 主要プロジェクト
-
-### 📱 モバイルアプリケーション
-
-| プロジェクト | 説明 | 技術スタック |
-| :--- | :--- | :--- |
-| **DiGer (VintageCheck)** | **古着タグAI解析アプリ**<br>カメラで古着のタグを撮影し、年代や詳細をAIが即座に判定。<br>サブスクリプション機能搭載。 | ![React Native](https://img.shields.io/badge/-RN-black) ![Vision Camera](https://img.shields.io/badge/-Vision-black) ![RevenueCat](https://img.shields.io/badge/-RevenueCat-red) |
-| **FormLab** | **AI筋トレフォーム解析**<br>トレーニング動画をAIで解析し、スコアと改善点を提示。<br>Supabaseによる履歴管理機能付き。 | ![Expo](https://img.shields.io/badge/-Expo-black) ![Gemini](https://img.shields.io/badge/-Gemini_AI-blue) ![Supabase](https://img.shields.io/badge/-Supabase-green) |
-
-### 🤖 自動化 & Bot
-
-| プロジェクト | 説明 | 技術スタック |
-| :--- | :--- | :--- |
-| **Auto-Vending** | **Discord自動販売機Bot**<br>在庫検索・購入・PayPay入金確認・納品までを完全無人化。<br>Playwrightによる決済監視システム搭載。 | ![Python](https://img.shields.io/badge/-Python-blue) ![Discord.py](https://img.shields.io/badge/-Bot-5865F2) ![Playwright](https://img.shields.io/badge/-Scraping-green) |
-
-<br/>
-
-## 🔄 開発哲学
+## 🔄 Development Philosophy
 
 ```mermaid
 graph LR
-    A[アイデア / ニーズ] --> B{技術選定}
+    A[課題発見] --> B{技術選定}
     B -->|モバイルアプリ| C[React Native / Expo]
     B -->|自動化| D[Python / Discord]
     
@@ -159,3 +216,7 @@ graph LR
     G --> I[リリース & 改善 🚀]
     H --> I
 ```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" width="100%" alt="footer" />
+</div>
