@@ -17,7 +17,7 @@
 
 - 🎓 大学生（現在）
 - 📱 React Native / Expo でのiOS/Androidアプリ開発・**App Store公開経験あり**
-- 🤖 Python + Playwrightによる業務自動化・Bot開発
+- 🤖 Python + APIによる業務自動化・Bot開発
 - 🏆 RoboCup Junior 2019 Japan Open OnStage **優勝**
 - 🎨 Esports チームのグラフィックデザイナー経験
 - 🛍️ Shopifyを活用したアパレルEC運営経験
