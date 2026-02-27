@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:161b22&amp;height=220&amp;section=header&amp;text=Student%20Engineer%20%2F%20App%20Developer&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Building%20apps%20that%20bridge%20Real%20World%20%26%20AI&amp;descSize=16&amp;descColor=8b949e&amp;descAlignY=55" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:161b22&amp;height=220&amp;section=header&amp;text=Student%20Engineer%20%2F%20App%20Developer&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Building%20apps%20that%20bridge%20the%20Real%20World%20and%20AI&amp;descSize=16&amp;descColor=8b949e&amp;descAlignY=55" width="100%" alt="header" />
 
   <br/>
 
@@ -195,7 +195,11 @@
     *   **結果と学び**: SNSマーケティングの壁を突破できず、半年間赤字を出し撤退（売上約3万円）。**「作れる」だけでは売れないことを痛感**し、ユーザー視点でのプロダクト設計の重要性を学びました。
 *   **現在**: この経験を活かし、エンジニアとしてユーザー課題を解決するモバイルアプリ開発に注力。**App Store公開済み。**
 
-<img src="./assets/apparel_brand.png" width="70%" alt="Apparel Brand TIER" />
+<img src="./assets/apparel_brand.png" width="30%" alt="Apparel Brand TIER" />
+<img src="./assets/tier.jpg" width="30%" alt="TIER Packaging" />
+<img src="./assets/tier2.jpg" width="30%" alt="TIER Packaging 2" />
+
+<sub>TIER の梱包材・タグデザイン</sub>
 
 </details>
 
