@@ -80,7 +80,7 @@
 | **課題** | 古着の年代判定は専門知識が必要で、初心者には困難。プロの鑑定士に依頼するとコストと時間がかかる。 |
 | **解決策** | Gemini 2.5 Flash を活用し、タグのデザイン・素材表記・アーカイブデータをAIが照合。最大3枚同時解析で精度向上。 |
 | **技術的工夫** | デバイスID認証による課金管理、Express.js + PostgreSQLの認証APIサーバー構築、RevenueCatによるサブスク課金実装 |
-| **成果** | **App Store公開済み** / サブスク3プラン設計 / バックエンドAPI自前構築・Render.comにデプロイ |
+| **成果** | **App Store公開済み** / サブスク3プラン設計 / バックエンドAPI自前構築・Render.comにデプロイ(現在Supabaseに移植中) |
 | **技術スタック** | React Native, TypeScript, Vision Camera, Express.js, PostgreSQL, Gemini 2.5 Flash, RevenueCat, AdMob |
 
 <br/>
