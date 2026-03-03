@@ -209,23 +209,6 @@
 
 <br/>
 
-## 🔄 Development Philosophy
-
-```mermaid
-graph LR
-    A[課題発見] --> B{技術選定}
-    B -->|モバイルアプリ| C[React Native / Expo]
-    B -->|自動化| D[Python / Discord]
-    
-    C --> E[AI統合<br>Gemini / Vision]
-    D --> F[ヘッドレスブラウザ<br>Playwright]
-    
-    E --> G[収益化<br>RevenueCat / AdMob]
-    F --> H[自動運用<br>24/7 稼働]
-    
-    G --> I[リリース & 改善 🚀]
-    H --> I
-```
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" width="100%" alt="footer" />
