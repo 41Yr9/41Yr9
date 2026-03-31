@@ -103,10 +103,10 @@
 | 項目 | 内容 |
 | :--- | :--- |
 | **課題** | デジタル商品の販売には、在庫管理・決済確認・納品の手作業が多く、24時間対応が困難。 |
-| **解決策** | Discord Botで購入フローを自動化。PayPay決済の自動受取→商品引渡しまでを無人化。Discord OAuth2対応のWebサイトからの購入チャネルも構築。 |
-| **技術的工夫** | PayPay APIトークン認証による自動決済、asyncioによるBot + Webサーバー（Quart/ASGI）の同一ループ並行動作、5カテゴリの自動出品スケジューラー、Supabaseによるカート・購入履歴管理、Cloudflare Tunnel/Docker運用 |
+| **解決策** | Discord Botで購入フローを自動化。決済の自動受取→商品引渡しまでを無人化。Discord OAuth2対応のWebサイトからの購入チャネルも構築。 |
+| **技術的工夫** | 決済システムAPIによる自動決済、asyncioによるBot + Webサーバー（Quart/ASGI）の同一ループ並行動作、5カテゴリの自動出品スケジューラー、Supabaseによるカート・購入履歴管理、Cloudflare Tunnel/Docker運用 |
 | **成果** | **24/7 完全無人運用を実現** / Discord + Web の2チャネル販売 / 利益トラッキング・システムステータス監視を搭載 |
-| **技術スタック** | Python 3.12, discord.py, asyncio, Quart (ASGI), PayPay API, Supabase, Docker, Cloudflare Tunnel |
+| **技術スタック** | Python 3.12, discord.py, asyncio, Quart (ASGI), 決済システムAPI, Supabase, Docker, Cloudflare Tunnel |
 
 <br/>
 
@@ -216,7 +216,7 @@ graph LR
     
     C --> E[AI統合<br>Gemini / R2]
     C2 --> E
-    D --> F[API自動連携<br>Supabase / PayPay]
+    D --> F[API自動連携<br>Supabase / 決済API]
     
     E --> G[収益化<br>RevenueCat / AdMob]
     F --> H[自動運用<br>24/7 稼働]
