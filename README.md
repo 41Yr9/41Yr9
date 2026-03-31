@@ -16,7 +16,7 @@
 モバイルアプリ開発を軸に、**企画 → 設計 → 実装 → リリース → 収益化**までを一貫して行う学生エンジニアです。
 
 - 🎓 大学生（現在）
-- 📱 React Native / Expo でのiOS/Androidアプリ開発・**App Store公開経験あり**
+- 📱 React Native / Expo / Swift(SwiftUI) でのiOS/Androidネイティブアプリ開発・**App Store公開経験あり**
 - 🤖 Python + APIによる業務自動化・Bot開発
 - 🏆 RoboCup Junior 2019 Japan Open OnStage **優勝**
 - 🎨 Esports チームのグラフィックデザイナー経験
@@ -214,11 +214,11 @@
 ```mermaid
 graph LR
     A[課題発見] --> B{技術選定}
-    B -->|モバイルアプリ| C[React Native / Expo]
+    B -->|モバイルアプリ| C["React Native / Swift (SwiftUI)"]
     B -->|自動化| D[Python / Discord]
     
-    C --> E[AI統合<br>Gemini / Vision]
-    D --> F[ヘッドレスブラウザ<br>Playwright]
+    C --> E[AI統合<br>Gemini / Vision / R2]
+    D --> F[API自動連携<br>Supabase / PayPay]
     
     E --> G[収益化<br>RevenueCat / AdMob]
     F --> H[自動運用<br>24/7 稼働]
