@@ -32,6 +32,7 @@
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Navigation](https://img.shields.io/badge/React_Navigation-7B61FF?style=for-the-badge&logo=react-router&logoColor=white)
@@ -57,6 +58,7 @@
 
 ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F05032?style=for-the-badge&logo=revenuecat&logoColor=white)
 ![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google-admob&logoColor=white)
@@ -91,10 +93,10 @@
 | 項目 | 内容 |
 | :--- | :--- |
 | **課題** | パーソナルトレーナーなしでは正しいフォームの判断が難しく、怪我のリスクがある。 |
-| **解決策** | Gemini 2.5 Flash でトレーニング動画を解析し、スコア・良い点・改善点・具体的アドバイスを自動生成。 |
-| **技術的工夫** | 最大50秒の動画をAIに送信する効率的なパイプライン構築、Supabaseによるクラウド履歴管理 |
-| **成果** | 解析履歴のクラウド保存 / RevenueCatによるサブスク課金実装 |
-| **技術スタック** | React Native (Expo SDK 52), TypeScript, Gemini 2.5 Flash, Supabase, RevenueCat |
+| **解決策** | Gemini 3 Flash Preview でトレーニング動画を解析し、スコア・良い点・改善点・具体的アドバイスを自動生成。 |
+| **技術的工夫** | MVVMアーキテクチャによるフルネイティブアプリ開発、Cloudflare R2とSupabase Edge Functions連携による大容量動画の安定アップロードパイプライン構築 |
+| **成果** | 解析履歴のクラウド保存 / R2による動画ストレージコスト最適化 / RevenueCatによるサブスク3プラン実装 |
+| **技術スタック** | Swift (SwiftUI), Gemini 3 Flash Preview, Supabase (Edge Functions / PostgreSQL), Cloudflare R2, RevenueCat |
 
 <br/>
 
