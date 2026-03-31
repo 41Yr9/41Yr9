@@ -16,7 +16,7 @@
 モバイルアプリ開発を軸に、**企画 → 設計 → 実装 → リリース → 収益化**までを一貫して行う学生エンジニアです。
 
 - 🎓 大学生（現在）
-- 📱 React Native / Expo / Swift(SwiftUI) でのiOS/Androidネイティブアプリ開発・**App Store公開経験あり**
+- 📱 React Native / Swift(SwiftUI) でのiOSネイティブアプリ開発・**App Store公開経験あり**
 - 🤖 Python + APIによる業務自動化・Bot開発
 - 🏆 RoboCup Junior 2019 Japan Open OnStage **優勝**
 - 🎨 Esports チームのグラフィックデザイナー経験
@@ -30,12 +30,10 @@
 <summary><b>モバイル & フロントエンド</b></summary>
 <br/>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React_Navigation-7B61FF?style=for-the-badge&logo=react-router&logoColor=white)
 
 </details>
 
@@ -48,7 +46,6 @@
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -59,6 +56,7 @@
 ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F05032?style=for-the-badge&logo=revenuecat&logoColor=white)
 ![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google-admob&logoColor=white)
@@ -79,14 +77,13 @@
 | :--- | :--- |
 | **課題** | 古着の年代判定は専門知識が必要で、初心者には困難。プロの鑑定士に依頼するとコストと時間がかかる。 |
 | **解決策** | Gemini 2.5 Flash を活用し、タグのデザイン・素材表記・アーカイブデータをAIが照合。最大3枚同時解析で精度向上。 |
-| **技術的工夫** | Supabase Auth（匿名認証）によるユーザー管理、Supabase Edge FunctionsによるサーバーレスAPI構築、RevenueCatによるサブスク課金実装 |
-| **成果** | **App Store公開済み** / サブスク3プラン設計 / サーバーレス・バックエンド構築によるインフラ運用無人化 |
-| **技術スタック** | React Native, TypeScript, Vision Camera, Supabase (Edge Functions / Auth / PostgreSQL), Gemini 2.5 Flash, RevenueCat, AdMob |
+| **技術的工夫** | Supabase Auth（匿名認証）によるユーザー管理、Supabase Edge Functions（Deno）によるサーバーレスAPI構築、クライアントサイド画像リサイズによる通信最適化、RevenueCatによるサブスク課金実装 |
+| **成果** | **App Store公開済み** / サブスク3プラン設計（無料20回・PREMIUM100回・ULTRA500回/月） / サーバーレス・バックエンド構築によるインフラ運用無人化 |
+| **技術スタック** | React Native 0.82, TypeScript, Vision Camera, Supabase (Edge Functions / Auth / PostgreSQL), Gemini 2.5 Flash, RevenueCat, AdMob |
 
 <br/>
 
 ### 💪 FormLab — AI筋トレフォーム解析
-
 
 > トレーニング動画をAIが解析し、姿勢・動作のスムーズさ・安全性を100点満点でスコアリング。
 
@@ -94,9 +91,9 @@
 | :--- | :--- |
 | **課題** | パーソナルトレーナーなしでは正しいフォームの判断が難しく、怪我のリスクがある。 |
 | **解決策** | Gemini 3 Flash Preview でトレーニング動画を解析し、スコア・良い点・改善点・具体的アドバイスを自動生成。 |
-| **技術的工夫** | MVVMアーキテクチャによるフルネイティブアプリ開発、Cloudflare R2とSupabase Edge Functions連携による大容量動画の安定アップロードパイプライン構築 |
-| **成果** | 解析履歴のクラウド保存 / R2による動画ストレージコスト最適化 / RevenueCatによるサブスク3プラン実装 |
-| **技術スタック** | Swift (SwiftUI), Gemini 3 Flash Preview, Supabase (Edge Functions / PostgreSQL), Cloudflare R2, RevenueCat |
+| **技術的工夫** | Swift(SwiftUI) + MVVMアーキテクチャによるフルネイティブiOSアプリ開発、Cloudflare R2 + Presigned URLによる大容量動画の安定アップロードパイプライン構築、XcodeGenによるプロジェクト管理 |
+| **成果** | 解析履歴のクラウド保存 / R2による動画ストレージコスト最適化 / RevenueCatによるサブスク3プラン実装（Free 3回・Basic 50回・Pro 500回/月） |
+| **技術スタック** | Swift (SwiftUI / iOS 18+), XcodeGen, Gemini 3 Flash Preview (Files API), Supabase (Edge Functions / Auth / PostgreSQL), Cloudflare R2, RevenueCat |
 
 <br/>
 
@@ -107,10 +104,10 @@
 | 項目 | 内容 |
 | :--- | :--- |
 | **課題** | デジタル商品の販売には、在庫管理・決済確認・納品の手作業が多く、24時間対応が困難。 |
-| **解決策** | Discord Botで購入フローを自動化。PayPay決済の自動受取→商品引渡しまでを無人化。Webサイトからの購入チャネルも構築。 |
-| **技術的工夫** | PayPay API自動決済、asyncioによるBot/Web並行動作、Supabaseによる履歴管理、Cloudflare Tunnel/Docker運用 |
+| **解決策** | Discord Botで購入フローを自動化。PayPay決済の自動受取→商品引渡しまでを無人化。Discord OAuth2対応のWebサイトからの購入チャネルも構築。 |
+| **技術的工夫** | PayPay APIトークン認証による自動決済、asyncioによるBot + Webサーバー（Quart/ASGI）の同一ループ並行動作、5カテゴリの自動出品スケジューラー、Supabaseによるカート・購入履歴管理、Cloudflare Tunnel/Docker運用 |
 | **成果** | **24/7 完全無人運用を実現** / Discord + Web の2チャネル販売 / 利益トラッキング・システムステータス監視を搭載 |
-| **技術スタック** | Python, discord.py, asyncio, Quart, PayPay API, Supabase, Docker, Cloudflare Tunnel |
+| **技術スタック** | Python 3.12, discord.py, asyncio, Quart (ASGI), PayPay API, Supabase, Docker, Cloudflare Tunnel |
 
 <br/>
 
@@ -214,10 +211,12 @@
 ```mermaid
 graph LR
     A[課題発見] --> B{技術選定}
-    B -->|モバイルアプリ| C["React Native / Swift (SwiftUI)"]
+    B -->|ネイティブiOS| C["Swift (SwiftUI)"]
+    B -->|クロスプラットフォーム| C2[React Native]
     B -->|自動化| D[Python / Discord]
     
-    C --> E[AI統合<br>Gemini / Vision / R2]
+    C --> E[AI統合<br>Gemini / R2]
+    C2 --> E
     D --> F[API自動連携<br>Supabase / PayPay]
     
     E --> G[収益化<br>RevenueCat / AdMob]
