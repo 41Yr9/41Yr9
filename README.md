@@ -43,9 +43,8 @@
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Quart](https://img.shields.io/badge/Quart-002A4D?style=for-the-badge&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -58,7 +57,6 @@
 
 ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F05032?style=for-the-badge&logo=revenuecat&logoColor=white)
 ![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google-admob&logoColor=white)
@@ -79,9 +77,9 @@
 | :--- | :--- |
 | **課題** | 古着の年代判定は専門知識が必要で、初心者には困難。プロの鑑定士に依頼するとコストと時間がかかる。 |
 | **解決策** | Gemini 2.5 Flash を活用し、タグのデザイン・素材表記・アーカイブデータをAIが照合。最大3枚同時解析で精度向上。 |
-| **技術的工夫** | デバイスID認証による課金管理、Express.js + PostgreSQLの認証APIサーバー構築、RevenueCatによるサブスク課金実装 |
-| **成果** | **App Store公開済み** / サブスク3プラン設計 / バックエンドAPI自前構築・Render.comにデプロイ |
-| **技術スタック** | React Native, TypeScript, Vision Camera, Express.js, PostgreSQL, Gemini 2.5 Flash, RevenueCat, AdMob |
+| **技術的工夫** | Supabase Auth（匿名認証）によるユーザー管理、Supabase Edge FunctionsによるサーバーレスAPI構築、RevenueCatによるサブスク課金実装 |
+| **成果** | **App Store公開済み** / サブスク3プラン設計 / サーバーレス・バックエンド構築によるインフラ運用無人化 |
+| **技術スタック** | React Native, TypeScript, Vision Camera, Supabase (Edge Functions / Auth / PostgreSQL), Gemini 2.5 Flash, RevenueCat, AdMob |
 
 <br/>
 
@@ -108,9 +106,9 @@
 | :--- | :--- |
 | **課題** | デジタル商品の販売には、在庫管理・決済確認・納品の手作業が多く、24時間対応が困難。 |
 | **解決策** | Discord Botで購入フローを自動化。PayPay決済の自動受取→商品引渡しまでを無人化。Webサイトからの購入チャネルも構築。 |
-| **技術的工夫** | PayPay APIトークン認証の自動決済、5カテゴリの自動出品スケジューラー、Cloudflare Tunnelによるセキュアな公開、Dockerによるコンテナ運用 |
+| **技術的工夫** | PayPay API自動決済、asyncioによるBot/Web並行動作、Supabaseによる履歴管理、Cloudflare Tunnel/Docker運用 |
 | **成果** | **24/7 完全無人運用を実現** / Discord + Web の2チャネル販売 / 利益トラッキング・システムステータス監視を搭載 |
-| **技術スタック** | Python, discord.py, Flask, Playwright, PayPay API, Docker, Cloudflare Tunnel |
+| **技術スタック** | Python, discord.py, asyncio, Quart, PayPay API, Supabase, Docker, Cloudflare Tunnel |
 
 <br/>
 
