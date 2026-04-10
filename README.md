@@ -98,17 +98,16 @@
 
 <br/>
 
-### 🤖 EC Auto-Vending Bot — Discord自動販売システム
+### 🤖 Discord Bot 開発 — 趣味プロジェクト
 
-> 仕入れ・在庫管理・決済確認・納品までを完全自動化したDiscord + Web上のEC自動販売システム。
+> 趣味で複数のDiscord Botを開発。Python + discord.pyを軸に、非同期処理やWeb連携など幅広い技術を実践的に習得。
 
 | 項目 | 内容 |
 | :--- | :--- |
-| **課題** | デジタル商品の販売には、在庫管理・決済確認・納品の手作業が多く、24時間対応が困難。 |
-| **解決策** | Discord Botで購入フローを自動化。決済の自動受取→商品引渡しまでを無人化。Discord OAuth2対応のWebサイトからの購入チャネルも構築。 |
-| **技術的工夫** | 決済システムAPIによる自動決済、asyncioによるBot + Webサーバー（Quart/ASGI）の同一ループ並行動作、5カテゴリの自動出品スケジューラー、Supabaseによるカート・購入履歴管理、Cloudflare Tunnel/Docker運用 |
-| **成果** | **24/7 完全無人運用を実現** / Discord + Web の2チャネル販売 / 利益トラッキング・システムステータス監視を搭載 |
-| **技術スタック** | Python 3.12, discord.py, asyncio, Quart (ASGI), 決済システムAPI, Supabase, Docker, Cloudflare Tunnel |
+| **概要** | コミュニティ運営の効率化や日常の便利ツールとして、複数のDiscord Botを個人開発。 |
+| **技術的工夫** | asyncioによるBot + Webサーバー（Quart/ASGI）の同一ループ並行動作、Supabaseによるデータ永続化、Cloudflare Tunnel + Dockerによる自宅サーバー運用 |
+| **学び** | 非同期プログラミング・API設計・インフラ運用の実践経験を積み、モバイルアプリ開発にも活かせるバックエンド知識を習得 |
+| **技術スタック** | Python 3.12, discord.py, asyncio, Quart (ASGI), Supabase, Docker, Cloudflare Tunnel |
 
 <br/>
 
